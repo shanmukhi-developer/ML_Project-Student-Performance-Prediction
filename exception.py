@@ -1,0 +1,12 @@
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.3.2
+flask==2.3.3
+gunicorn==21.2.0
+
+dill==0.3.8
+
+SQLAlchemy==2.0.32
+pymysql==1.1.1
+
+
