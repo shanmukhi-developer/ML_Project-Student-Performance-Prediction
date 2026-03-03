@@ -1,4 +1,4 @@
-# 🚀 Student Performance Prediction – End-to-End Machine Learning Project
+# 🚀 ML_Project-Student Performance Prediction
 
 ## 📌 Project Overview
 This project is a **production-ready, end-to-end Machine Learning system** designed to analyze and predict student academic performance using demographic, socio-economic, and educational factors.
@@ -70,15 +70,4 @@ The solution follows a **modular and scalable ML pipeline**:
 ├── setup.py
 └── README.md
 
-## 📸 Application Screenshots
-Screenshots below showcase the complete workflow of the application, from user input to real-time model predictions.
-
-### 🏠 Home Page
-![Home Page](Screenshots/home_page.png)
-
-### 📝 Project  Structure 
-![Structure](Screenshots/mlproject_structure.png)
-
-### 📊 Prediction Output
-![Prediction Output](Screenshots/prediction_output.png)
 
